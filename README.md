@@ -4,3 +4,4 @@
 - Exercício focado em HTML/CSS
 
 #Para acessar o repositório:
+https://busolin.github.io/RocketNews/
